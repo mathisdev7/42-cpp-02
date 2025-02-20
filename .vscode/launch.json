@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/frost/42/42-CPP-02/ex00",
-      "program": "/home/frost/42/42-CPP-02/ex00/build/Debug/outDebug",
+      "cwd": "/home/frost/42/42-CPP-02/ex02/ex01",
+      "program": "/home/frost/42/42-CPP-02/ex02/ex01/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
